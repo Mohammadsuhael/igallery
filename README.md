@@ -164,7 +164,7 @@ Publish the website in the given URL.
     </div>
     <div class="photo-item">
         <img src="baki.jpg" alt="baki">
-        <div class="baki">Nancy</div>
+        <div class="label">baki</div>
     </div>
 </div>
 
